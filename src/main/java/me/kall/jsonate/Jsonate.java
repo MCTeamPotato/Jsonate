@@ -1,6 +1,6 @@
 package me.kall.jsonate;
 
-import net.minecraftforge.fml.common.Mod;
+import net.neoforged.fml.common.Mod;
 
 @Mod(Jsonate.MOD_ID)
 public final class Jsonate {
