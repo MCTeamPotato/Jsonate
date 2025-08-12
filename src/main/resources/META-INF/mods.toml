@@ -1,7 +1,7 @@
 modLoader = "javafml"
 loaderVersion = "[36,)"
 #issueTrackerURL = ""
-license = "MIT"
+license = "Unlicense"
 
 [[mods]]
 modId = "jsonate"
