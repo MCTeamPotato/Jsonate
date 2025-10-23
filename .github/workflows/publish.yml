@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        branch: [forge, neo]
+        branch: [forge, neo, forge-retro]
 
     steps:
       - name: Checkout target branch
